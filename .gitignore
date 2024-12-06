@@ -1,0 +1,22 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.tmp
+*.swp
+
+# Mac related
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
